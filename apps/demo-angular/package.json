@@ -1,7 +1,9 @@
 {
   "main": "./src/main.ts",
   "dependencies": {
-    "@nativescript/core": "file:../../node_modules/@nativescript/core"
+    "@nativescript/core": "file:../../node_modules/@nativescript/core",
+    "@nativescript/test1": "file:../../dist/packages/test1",
+    "@jcassidyav/test2": "file:../../dist/packages/test2"
   },
   "devDependencies": {
     "@nativescript/android": "~8.2.0",

@@ -6,6 +6,8 @@
     <ScrollView class="h-full">
       <StackLayout>
         <Button text="add a package first" tap="{{ viewDemo }}" class="btn btn-primary view-demo"/>
+<Button text="test1" tap="{{ viewDemo }}" class="btn btn-primary view-demo"/>
+<Button text="test2" tap="{{ viewDemo }}" class="btn btn-primary view-demo"/>
       </StackLayout>
     </ScrollView>
   </StackLayout>
