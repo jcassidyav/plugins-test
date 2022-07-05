@@ -31,8 +31,5 @@
   "license": "Apache-2.0",
   "homepage": "https://github.com/NativeScript/plugins",
   "readmeFilename": "README.md",
-  "bootstrapper": "@nativescript/plugin-seed",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  }
+  "bootstrapper": "@nativescript/plugin-seed"
 }
