@@ -21,8 +21,8 @@
     ],
     "paths": {
       "@demo/shared": ["tools/demo/index.ts"],
-      "@nativescript/test1": ["packages/test1/index.d.ts"],
-      "@jcassidyav/test2": ["packages/test2/index.d.ts"]
+      "@jcassidyav/test2": ["packages/test2/index.d.ts"],
+      "@nativescript/test1": ["packages/test1/index.d.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

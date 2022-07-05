@@ -51,5 +51,9 @@
     "**/*.{js,ts,scss,json,html}": [
       "npx prettier --write"
     ]
+  },
+  "dependencies": {
+    "semantic-release-npm-github-publish": "^1.5.1",
+    "semantic-release-plus": "^20.0.0"
   }
 }

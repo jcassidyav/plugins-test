@@ -1,6 +1,6 @@
 {
   "name": "@jcassidyav/test2",
-  "version": "1.0.0",
+  "version": "0.0.0-semantic-release",
   "description": "Add a plugin description",
   "main": "index",
   "typings": "index.d.ts",
@@ -31,5 +31,8 @@
   "license": "Apache-2.0",
   "homepage": "https://github.com/NativeScript/plugins",
   "readmeFilename": "README.md",
-  "bootstrapper": "@nativescript/plugin-seed"
+  "bootstrapper": "@nativescript/plugin-seed",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }
