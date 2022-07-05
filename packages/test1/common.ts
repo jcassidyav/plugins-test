@@ -1,3 +1,5 @@
 import { Observable } from '@nativescript/core';
 
-export class Test1Common extends Observable {}
+export class Test1Common extends Observable {
+  test: number;
+}
