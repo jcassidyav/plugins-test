@@ -1,4 +1,4 @@
-const name = 'ts-library';
+const name = 'test2';
 const srcRoot = `packages/${name}`;
 
 module.exports = {
