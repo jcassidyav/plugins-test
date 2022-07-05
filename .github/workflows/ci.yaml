@@ -42,6 +42,7 @@ jobs:
 
       - name: Install dependencies
         run: |
+          npm i -g nativescript
           npm run setup
       - run: |
           npx nx workspace-lint
