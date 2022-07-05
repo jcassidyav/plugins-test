@@ -44,10 +44,21 @@ jobs:
         run: |
           npm i -g nativescript
           npm run setup
-      - run: |
+          
+      - name: Install workspace-lint
+        run: |
           npx nx workspace-lint
+
+      - name: format:check
+        run: |
           npx nx format:check
+
+      - name: run lint
+        run: |
           npx nx affected --target lint
+
+      - name: run build
+        run: |
           npx nx affected --target build.all
 
       - name: Release
