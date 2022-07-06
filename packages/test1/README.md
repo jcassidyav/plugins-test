@@ -11,3 +11,4 @@ ns plugin add @nativescript/test1
 ## License
 
 Apache License Version 2.0
+test change
