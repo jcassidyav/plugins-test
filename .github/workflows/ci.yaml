@@ -69,4 +69,4 @@ jobs:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: |
           npx nx affected --target release
-          npx semantic-release-plus
+         # npx semantic-release-plus
