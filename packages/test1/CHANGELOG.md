@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/jcassidyav/plugins-test/compare/test1-v1.0.1...test1-v1.0.2) (2022-07-06)
+
+
+### Bug Fixes
+
+* **test1:** change property ([67b1c2f](https://github.com/jcassidyav/plugins-test/commit/67b1c2fc5f4189c37ed88dd292a4a5cce88be999))
+
 ## [1.0.1](https://github.com/jcassidyav/plugins-test/compare/test1-v1.0.0...test1-v1.0.1) (2022-07-06)
 
 
