@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/jcassidyav/plugins-test/compare/test1-v1.0.2...test1-v1.0.3) (2022-07-06)
+
+
+### Bug Fixes
+
+* **test1:** test test5 ([9594c96](https://github.com/jcassidyav/plugins-test/commit/9594c9681df2f659a9b146807bb1d7212b89df5a))
+
 ## [1.0.2](https://github.com/jcassidyav/plugins-test/compare/test1-v1.0.1...test1-v1.0.2) (2022-07-06)
 
 
