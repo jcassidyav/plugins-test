@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/jcassidyav/plugins-test/compare/test1-v1.0.0...test1-v1.0.1) (2022-07-06)
+
+
+### Bug Fixes
+
+* **test1:** change name ([5e795d5](https://github.com/jcassidyav/plugins-test/commit/5e795d56c3f690ff52eab48f5b9641ec745c9b75))
+
 # 1.0.0 (2022-07-05)
 
 
